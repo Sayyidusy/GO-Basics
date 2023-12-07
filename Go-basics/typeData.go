@@ -1,8 +1,9 @@
+
 package main
 
 import "fmt"
 
-func mainn() {
+func main() {
 	// tipe data int
 	fmt.Println("1 + 1 =", 1+1)
 	fmt.Println("ini tipe data int = ", 40)
