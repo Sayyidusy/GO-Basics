@@ -1,10 +1,17 @@
 go 1.21.5
 
 use (
+	//file go-basics
 	./Go-basics/array
 	./Go-basics/operator
 	./Go-basics/slice
 	./Go-basics/typeData
 
+	//file go-tlx
+	./go-tlx/osn_2018
+
+	//file go-latihan
 	./go-latihan/tipedata
+	
+
 )
