@@ -3,5 +3,8 @@ go 1.21.5
 use (
 	./Go-basics/array
 	./Go-basics/operator
+	./Go-basics/slice
 	./Go-basics/typeData
+
+	./go-latihan/tipedata
 )
